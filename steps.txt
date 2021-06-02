@@ -1,0 +1,94 @@
+step1
+[['Those', 'Who', 'Are', 'Resilient', 'Stay', 'In', 'The', 'Game', 'Longer'], ['\x93On', 'the', 'mountains', 'of', 'truth', 'you', 'can', 'never', 'climb', 'in', 'vain:', 'either', 'you', 'will', 'reach', 'a', 'point', 'higher', 'up', 'today,', 'or', 'you', 'will', 'be', 'training', 'your', 'powers', 'so', 'that', 'you', 'will', 'be', 'able', 'to', 'climb', 'higher', 'tomorrow.\x94', 'Challenges', 'and', 'setbacks', 'are', 'not', 'meant', 'to', 'defeat', 'you,', 'but', 'promote', 'you'], ['However,', 'I', 'realise', 'after', 'many', 'years', 'of', 'defeats,', 'it', 'can', 'crush', 'your', 'spirit', 'and', 'it', 'is', 'easier', 'to', 'give', 'up', 'than', 'risk', 'further', 'setbacks', 'and', 'disappointments'], ['Have', 'you', 'experienced', 'this', 'before?', 'To', 'be', 'honest,', 'I', 'don\x92t', 'have', 'the', 'answers'], ['I', 'can\x92t', 'tell', 'you', 'what', 'the', 'right', 'course', 'of', 'action', 'is;', 'only', 'you', 'will', 'know'], ['However,', 'it\x92s', 'important', 'not', 'to', 'be', 'discouraged', 'by', 'failure', 'when', 'pursuing', 'a', 'goal', 'or', 'a', 'dream,', 'since', 'failure', 'itself', 'means', 'different', 'things', 'to', 'different', 'people'], ['To', 'a', 'person', 'with', 'a', 'Fixed', 'Mindset', 'failure', 'is', 'a', 'blow', 'to', 'their', 'self-esteem,', 'yet', 'to', 'a', 'person', 'with', 'a', 'Growth', 'Mindset,', 'it\x92s', 'an', 'opportunity', 'to', 'improve', 'and', 'find', 'new', 'ways', 'to', 'overcome', 'their', 'obstacles'], ['Same', 'failure,', 'yet', 'different', 'responses'], ['Who', 'is', 'right', 'and', 'who', 'is', 'wrong?', 'Neither'], ['Each', 'person', 'has', 'a', 'different', 'mindset', 'that', 'decides', 'their', 'outcome'], ['Those', 'who', 'are', 'resilient', 'stay', 'in', 'the', 'game', 'longer', 'and', 'draw', 'on', 'their', 'inner', 'means', 'to', 'succeed'], ['I\x92ve', 'coached', 'many', 'clients', 'who', 'gave', 'up', 'after', 'many', 'years', 'toiling', 'away', 'at', 'their', 'respective', 'goal', 'or', 'dream'], ['It', 'was', 'at', 'that', 'point', 'their', 'biggest', 'breakthrough', 'came'], ['Perhaps', 'all', 'those', 'years', 'of', 'perseverance', 'finally', 'paid', 'off'], ['It', 'was', 'the', '19th', 'Century\x92s', 'minister', 'Henry', 'Ward', 'Beecher', 'who', 'once', 'said:', '\x93One\x92s', 'best', 'success', 'comes', 'after', 'their', 'greatest', 'disappointments.\x94', 'No', 'one', 'knows', 'what', 'the', 'future', 'holds,', 'so', 'your', 'only', 'guide', 'is', 'whether', 'you', 'can', 'endure', 'repeated', 'defeats', 'and', 'disappointments', 'and', 'still', 'pursue', 'your', 'dream'], ['Consider', 'the', 'advice', 'from', 'the', 'American', 'academic', 'and', 'psychologist', 'Angela', 'Duckworth', 'who', 'writes', 'in', 'Grit:', 'The', 'Power', 'of', 'Passion', 'and', 'Perseverance:', '\x93Many', 'of', 'us,', 'it', 'seems,', 'quit', 'what', 'we', 'start', 'far', 'too', 'early', 'and', 'far', 'too', 'often'], ['Even', 'more', 'than', 'the', 'effort', 'a', 'gritty', 'person', 'puts', 'in', 'on', 'a', 'single', 'day,', 'what', 'matters', 'is', 'that', 'they', 'wake', 'up', 'the', 'next', 'day,', 'and', 'the', 'next,', 'ready', 'to', 'get', 'on', 'that', 'treadmill', 'and', 'keep', 'going.\x94', 'I', 'know', 'one', 'thing', 'for', 'certain:', 'don\x92t', 'settle', 'for', 'less', 'than', 'what', 'you\x92re', 'capable', 'of,', 'but', 'strive', 'for', 'something', 'bigger'], ['Some', 'of', 'you', 'reading', 'this', 'might', 'identify', 'with', 'this', 'message', 'because', 'it', 'resonates', 'with', 'you', 'on', 'a', 'deeper', 'level'], ['For', 'others,', 'at', 'the', 'end', 'of', 'their', 'tether', 'the', 'message', 'might', 'be', 'nothing', 'more', 'than', 'a', 'trivial', 'pep', 'talk'], ['What', 'I', 'wish', 'to', 'convey', 'irrespective', 'of', 'where', 'you', 'are', 'in', 'your', 'journey', 'is:', 'NEVER', 'settle', 'for', 'less'], ['If', 'you', 'settle', 'for', 'less,', 'you', 'will', 'receive', 'less', 'than', 'you', 'deserve', 'and', 'convince', 'yourself', 'you', 'are', 'justified', 'to', 'receive', 'it.\x93Two', 'people', 'on', 'a', 'precipice', 'over', 'Yosemite', 'Valley\x94', 'by', 'Nathan', 'Shipps', 'on', 'Unsplash']]
+
+step2
+[[0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.70710678 0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.05555556 0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.09622504 0.         0.         0.         0.         0.
+  0.         0.06804138 0.        ]
+ [0.         0.05555556 0.         0.         0.         0.06622662
+  0.         0.         0.         0.         0.         0.23145502
+  0.         0.12909944 0.05661385 0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.07905694 0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.21821789 0.         0.         0.
+  0.         0.         0.         0.         0.06681531 0.
+  0.         0.         0.        ]
+ [0.         0.         0.06622662 0.         0.         0.
+  0.15389675 0.22941573 0.         0.20519567 0.08111071 0.06131393
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.05407381]
+ [0.         0.         0.         0.         0.         0.15389675
+  0.         0.1118034  0.         0.3        0.         0.
+  0.         0.         0.         0.         0.07905694 0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.22941573
+  0.1118034  0.         0.         0.2236068  0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.21821789 0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.20519567
+  0.3        0.2236068  0.         0.         0.         0.
+  0.         0.         0.         0.         0.07905694 0.
+  0.         0.         0.        ]
+ [0.70710678 0.         0.         0.         0.         0.08111071
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.23145502 0.         0.         0.06131393
+  0.         0.         0.         0.         0.         0.
+  0.         0.11952286 0.05241424 0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.09622504 0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.12909944 0.         0.         0.
+  0.         0.         0.         0.         0.         0.11952286
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.05661385 0.         0.         0.
+  0.         0.         0.         0.         0.         0.05241424
+  0.         0.         0.         0.         0.03466876 0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.        ]
+ [0.         0.         0.         0.07905694 0.06681531 0.
+  0.07905694 0.         0.         0.07905694 0.         0.
+  0.         0.         0.03466876 0.         0.         0.
+  0.         0.125      0.08333333]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.25197632 0.         0.        ]
+ [0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.25197632
+  0.         0.         0.        ]
+ [0.         0.06804138 0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.125      0.
+  0.         0.         0.16666667]
+ [0.         0.         0.         0.         0.         0.05407381
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.08333333 0.
+  0.         0.16666667 0.        ]]
+  
+step3
+{0: 0.051103440843116084, 1: 0.04124932239764629, 2: 0.06944480841457794, 3: 0.016439278593689363, 4: 0.04783343482817723, 5: 0.07877744896006475, 6: 0.06062573808453034, 7: 0.05183728444038212, 8: 0.03857309469273654, 9: 0.07400163088462466, 10: 0.05726393585526811, 11: 0.05890404464121351, 12: 0.022792292769458752, 13: 0.034461535494285524, 14: 0.023236684441388336, 15: 0.007444168734491316, 16: 0.0732189293377867, 17: 0.04962779156327543, 18: 0.04962779156327543, 19: 0.05191245442255703, 20: 0.041624889037454565}
+
+step4
+[(0.07877744896006475, ['However,', 'it\x92s', 'important', 'not', 'to', 'be', 'discouraged', 'by', 'failure', 'when', 'pursuing', 'a', 'goal', 'or', 'a', 'dream,', 'since', 'failure', 'itself', 'means', 'different', 'things', 'to', 'different', 'people']), (0.07400163088462466, ['Each', 'person', 'has', 'a', 'different', 'mindset', 'that', 'decides', 'their', 'outcome']), (0.0732189293377867, ['Even', 'more', 'than', 'the', 'effort', 'a', 'gritty', 'person', 'puts', 'in', 'on', 'a', 'single', 'day,', 'what', 'matters', 'is', 'that', 'they', 'wake', 'up', 'the', 'next', 'day,', 'and', 'the', 'next,', 'ready', 'to', 'get', 'on', 'that', 'treadmill', 'and', 'keep', 'going.\x94', 'I', 'know', 'one', 'thing', 'for', 'certain:', 'don\x92t', 'settle', 'for', 'less', 'than', 'what', 'you\x92re', 'capable', 'of,', 'but', 'strive', 'for', 'something', 'bigger']), (0.06944480841457794, ['However,', 'I', 'realise', 'after', 'many', 'years', 'of', 'defeats,', 'it', 'can', 'crush', 'your', 'spirit', 'and', 'it', 'is', 'easier', 'to', 'give', 'up', 'than', 'risk', 'further', 'setbacks', 'and', 'disappointments']), (0.06062573808453034, ['To', 'a', 'person', 'with', 'a', 'Fixed', 'Mindset', 'failure', 'is', 'a', 'blow', 'to', 'their', 'self-esteem,', 'yet', 'to', 'a', 'person', 'with', 'a', 'Growth', 'Mindset,', 'it\x92s', 'an', 'opportunity', 'to', 'improve', 'and', 'find', 'new', 'ways', 'to', 'overcome', 'their', 'obstacles']), (0.05890404464121351, ['I\x92ve', 'coached', 'many', 'clients', 'who', 'gave', 'up', 'after', 'many', 'years', 'toiling', 'away', 'at', 'their', 'respective', 'goal', 'or', 'dream']), (0.05726393585526811, ['Those', 'who', 'are', 'resilient', 'stay', 'in', 'the', 'game', 'longer', 'and', 'draw', 'on', 'their', 'inner', 'means', 'to', 'succeed']), (0.05191245442255703, ['What', 'I', 'wish', 'to', 'convey', 'irrespective', 'of', 'where', 'you', 'are', 'in', 'your', 'journey', 'is:', 'NEVER', 'settle', 'for', 'less']), (0.05183728444038212, ['Same', 'failure,', 'yet', 'different', 'responses']), (0.051103440843116084, ['Those', 'Who', 'Are', 'Resilient', 'Stay', 'In', 'The', 'Game', 'Longer']), (0.04962779156327543, ['Some', 'of', 'you', 'reading', 'this', 'might', 'identify', 'with', 'this', 'message', 'because', 'it', 'resonates', 'with', 'you', 'on', 'a', 'deeper', 'level']), (0.04962779156327543, ['For', 'others,', 'at', 'the', 'end', 'of', 'their', 'tether', 'the', 'message', 'might', 'be', 'nothing', 'more', 'than', 'a', 'trivial', 'pep', 'talk']), (0.04783343482817723, ['I', 'can\x92t', 'tell', 'you', 'what', 'the', 'right', 'course', 'of', 'action', 'is;', 'only', 'you', 'will', 'know']), (0.041624889037454565, ['If', 'you', 'settle', 'for', 'less,', 'you', 'will', 'receive', 'less', 'than', 'you', 'deserve', 'and', 'convince', 'yourself', 'you', 'are', 'justified', 'to', 'receive', 'it.\x93Two', 'people', 'on', 'a', 'precipice', 'over', 'Yosemite', 'Valley\x94', 'by', 'Nathan', 'Shipps', 'on', 'Unsplash']), (0.04124932239764629, ['\x93On', 'the', 'mountains', 'of', 'truth', 'you', 'can', 'never', 'climb', 'in', 'vain:', 'either', 'you', 'will', 'reach', 'a', 'point', 'higher', 'up', 'today,', 'or', 'you', 'will', 'be', 'training', 'your', 'powers', 'so', 'that', 'you', 'will', 'be', 'able', 'to', 'climb', 'higher', 'tomorrow.\x94', 'Challenges', 'and', 'setbacks', 'are', 'not', 'meant', 'to', 'defeat', 'you,', 'but', 'promote', 'you']), (0.03857309469273654, ['Who', 'is', 'right', 'and', 'who', 'is', 'wrong?', 'Neither']), (0.034461535494285524, ['Perhaps', 'all', 'those', 'years', 'of', 'perseverance', 'finally', 'paid', 'off']), (0.023236684441388336, ['It', 'was', 'the', '19th', 'Century\x92s', 'minister', 'Henry', 'Ward', 'Beecher', 'who', 'once', 'said:', '\x93One\x92s', 'best', 'success', 'comes', 'after', 'their', 'greatest', 'disappointments.\x94', 'No', 'one', 'knows', 'what', 'the', 'future', 'holds,', 'so', 'your', 'only', 'guide', 'is', 'whether', 'you', 'can', 'endure', 'repeated', 'defeats', 'and', 'disappointments', 'and', 'still', 'pursue', 'your', 'dream']), (0.022792292769458752, ['It', 'was', 'at', 'that', 'point', 'their', 'biggest', 'breakthrough', 'came']), (0.016439278593689363, ['Have', 'you', 'experienced', 'this', 'before?', 'To', 'be', 'honest,', 'I', 'don\x92t', 'have', 'the', 'answers']), (0.007444168734491316, ['Consider', 'the', 'advice', 'from', 'the', 'American', 'academic', 'and', 'psychologist', 'Angela', 'Duckworth', 'who', 'writes', 'in', 'Grit:', 'The', 'Power', 'of', 'Passion', 'and', 'Perseverance:', '\x93Many', 'of', 'us,', 'it', 'seems,', 'quit', 'what', 'we', 'start', 'far', 'too', 'early', 'and', 'far', 'too', 'often'])]

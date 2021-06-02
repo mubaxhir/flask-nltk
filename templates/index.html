@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Boido</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167343884-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-167343884-1');
+    </script>
+</head>
+
+<body>
+    <div id="body">
+        <div id="Card">
+            <div id="inner">
+                <h1 id="header">The smart summarizer</h1>
+                <!-- <h5>The smart summarizer</h5> -->
+                <p id="intro">Put the text of anything in the text box below and our AI algorithm will output what it
+                    thinks of
+                    summary. Make Sure to follow the directions below to ensure the best outcome.</p>
+                <div id="warnings">
+                    <div id="warning"><img src="/static/images/cross.png" alt="">
+                        <p style="font-size: 11px;margin:0; padding:0;">Eliminate all special character (i.e"-"or"+")
+                        </p>
+                    </div>
+                    <div id="warning"><img src="/static/images/cross.png" alt="">
+                        <p style="font-size: 11px;margin:0; padding:0;">Remove all new paragraphs</p>
+                    </div>
+                    <div id="warning"><img src="/static/images/cross.png" alt="">
+                        <p style="font-size: 11px;margin:0; padding:0;">Remove all hyperlink and underlines</p>
+                    </div>
+                </div>
+                <textarea type="text" id="textBody" placeholder="Enter Text Here"></textarea>
+                <div id="y">
+                    <div style="display: flex;width: 120px;border-style:solid;border-color:silver;padding:2px">Number of sentences :<input id="myInput" type="text">
+                    </div><button id="summarizer" style="">Summarize</button>
+                </div>
+                <div id="refs" style="display: flex;justify-content: center;grid-template-rows: repeat(25,auto); ">
+                    <p id="feedbacks" style="margin: 10px 0 10px 0;">Have Questions/Feedback? Email us at- <a
+                            href="info@biodo.io"> info@biodo.io</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+    f = document.getElementById("summarizer")
+
+    f.addEventListener("click", function () {
+        var x = text = $('textarea#textBody').val();
+        var topn = $("#myInput").val();
+        var form_data = new FormData();
+        form_data.append("paragraph", x)
+        form_data.append("topN", topn)
+        $.ajax({
+            url: "/convert",
+            method: "POST",
+            contentType: false,
+            data: form_data,
+            processData: false,
+            cache: false,
+            success: function (data) { },
+        }).done(function (data) {
+            document.getElementById("intro").style.display = "None"
+            document.getElementById("warnings").style.display = "None"
+            document.getElementById("textBody").style.display = "None"
+            document.getElementById("summarizer").style.display = "None"
+            document.getElementById("y").style.display = "None"
+            var refs = document.getElementById("refs")
+            var para = document.createElement("p")
+            para.id = "para"
+            para.appendChild(document.createTextNode(data.summary))
+            var inner = document.getElementById("inner")
+            inner.insertBefore(para, refs)
+            var backbtn = document.createElement("button")
+            backbtn.style.margin = "0 35%"
+            backbtn.onclick = function () {
+                location.reload()
+            }
+            backbtn.appendChild(document.createTextNode("Go Back"))
+            inner.insertBefore(backbtn, refs)
+
+        });
+    });
+</script>
+<style>
+    body {
+        margin: 0;
+
+        background-image: linear-gradient(to bottom right, #066873, #D9CA9C);
+        background-repeat: no-repeat;
+    }
+
+    #body {
+        background-image: linear-gradient(to bottom right, #066873, #D9CA9C);
+        background-repeat: no-repeat;
+        padding: 2.7% 20%;
+    }
+
+    #Card {
+        height: -webkit-fill-available;
+        max-width: 80%;
+        justify-content: center;
+        margin: 0 auto;
+        display: flex;
+        border-radius: 10%;
+        padding: 10px;
+        background-color: #e5e5e5;
+        box-shadow: 1px 5px 9px 5px #888888;
+    }
+
+    #inner {
+        display: grid;
+        grid-template-rows: repeat(25, auto);
+        width: 90%;
+    }
+
+    #header {
+        font-family: sans-serif;
+        font-size: 5vw;
+        margin: 0;
+        width: 100%;
+        color: #555555;
+        text-align: center;
+
+    }
+
+    h5 {
+        font-family: Arial;
+        width: 100%;
+        font-weight: 500;
+        margin: 0;
+        color: #555555;
+        text-align: center;
+    }
+
+    p {
+        display: flex;
+        text-align: center;
+        padding: 0 2rem 0 2rem;
+        color: #555555;
+        font-size: 16px;
+
+    }
+
+    img {
+        width: 40px;
+        margin-left: 1.2vw;
+    }
+
+    #warnings {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    #warning {
+        max-width: 100px;
+        min-width: 70px;
+        ;
+    }
+
+    #y {
+
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 2vw;
+        height: min-content;
+    }
+
+    button {
+        background-color: #2c6872;
+        border: none;
+        padding: 0 20px;
+        color: white;
+        text-align: center;
+        font-size: 14px;
+        cursor: pointer;
+        height: 35px;
+        border-radius: 30px;
+        display: flex;
+    }
+
+    input {
+        width: 40px;
+        background: none;
+        border: none;
+    }
+
+    form {
+        height: 100%;
+        max-height: 10rem;
+        display: grid;
+    }
+
+    #textBody {
+        height: -webkit-fill-available;
+        max-height: 12rem;
+        text-align: 0;
+        width: 93%;
+        background: none;
+        border-radius: 4px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        resize: vertical;
+        margin: 20px 0 5px 3%;
+    }
+
+    #para {
+        height: 25rem;
+        box-sizing: border-box;
+        border: solid;
+        border-color: #929292;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 25px;
+        overflow-y: scroll;
+
+    }
+
+    @media only screen and (max-width: 720) {
+        #body {
+            padding: 2% 20%;
+
+        }
+    }
+</style>
+
+</html>
